@@ -2,7 +2,7 @@
 # -*- coding:utf8 -*-
 
 
-# 
+# by：hackerzhou
 # ab_packer.py (Android Backup re-packer)
 #
 # Repacks an unpacked Android Backup for restoration
